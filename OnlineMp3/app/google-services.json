@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "42202287805",
+    "firebase_url": "https://onlinemp3-f08c2.firebaseio.com",
+    "project_id": "onlinemp3-f08c2",
+    "storage_bucket": "onlinemp3-f08c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42202287805:android:082ae02ce9ee1a7ca371d4",
+        "android_client_info": {
+          "package_name": "myapp.onlinemp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42202287805-chaka7oi3sgvqi4vvacjmtck7qml0bir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myapp.onlinemp3",
+            "certificate_hash": "c3990c392b73be517a073529214a591dfe28cf20"
+          }
+        },
+        {
+          "client_id": "42202287805-o5m61286v3c8pdsnvebbp3ak0nkjbmt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUUnKkYH_T6BG13jZB8979yFtnGb7toQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42202287805-o5m61286v3c8pdsnvebbp3ak0nkjbmt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
